@@ -2,9 +2,7 @@
     #BANNER
   \*-----------------------------------*/
 
-.banner {
-    margin: -21px 0;
-}
+
 
 .slider-container {
     display: -webkit-box;
@@ -75,7 +73,7 @@
 }
 
 
-.banner-title {
+.-title {
     color: var(--eerie-black);
     font-size: var(--fs-1);
     text-transform: uppercase;
@@ -2435,10 +2433,7 @@ footer {
      * #BANNER 
      */
 
-    .banner {
-        margin-top: 94px;
-    }
-
+  
     .slider-item {
         height: 380px;
     }
